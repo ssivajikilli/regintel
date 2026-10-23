@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langgraph
+scikit-learn
+numpy
+# optional – enables real LLM answers (otherwise runs fully offline):
+# openai
